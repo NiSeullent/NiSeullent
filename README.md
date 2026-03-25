@@ -80,8 +80,8 @@ Building practical products that ship
 
 ## Highlighted Repositories
 
-- [open-zuzunza](https://github.com/zuzunza-com/open-zuzunza)
-- [moabuilder](https://github.com/zuzunza-com/moabuilder)
+- [open-zuzunza](https://github.com/NiSeullent/open-zuzunza)
+- [moabuilder](https://github.com/NiSeullent/moabuilder)
 
 ## Contact
 
