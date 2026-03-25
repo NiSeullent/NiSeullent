@@ -80,10 +80,8 @@ Building practical products that ship
 
 ## Highlighted Repositories
 
-- [angple](https://github.com/NiSeullent/angple)
-- [angple-backend](https://github.com/NiSeullent/angple-backend)
 - [ryllis](https://github.com/NiSeullent/ryllis)
-- [narinboardxp](https://github.com/NiSeullent/narinboardxp)
+- [opseat](https://github.com/NiSeullent/opseat)
 
 ## Contact
 
