@@ -4,7 +4,7 @@
 
 ### nyase kim
 
-Director of CreVision · CEO · Builder
+Director of CreVision · CTO · Builder
 
 [Website](https://company.zuzunza.com) · [Organization](https://github.com/zuzunza-com)
 
