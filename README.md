@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Kunoo Kim
+### nyase kim
 
 Director of CreVision · CEO · Builder
 
