@@ -80,9 +80,8 @@ Building practical products that ship
 
 ## Highlighted Repositories
 
-- [ryllis](https://github.com/NiSeullent/ryllis)
-- [opseat](https://github.com/NiSeullent/opseat)
-- [zuzunza-com/zuzunza](https://github.com/zuzunza-com/zuzunza)
+- [open-zuzunza](https://github.com/zuzunza-com/open-zuzunza)
+- [moabuilder](https://github.com/zuzunza-com/moabuilder)
 
 ## Contact
 
