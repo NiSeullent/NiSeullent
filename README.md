@@ -1,8 +1,5 @@
 <div align="center">
-
-<img src="./codename9_showcase.png" alt="CodeName9 Showcase Banner" width="100%" />
-
-# nyase - CodeName9
+# nyase - Tresillo
 
 **개념에서 프로덕션까지 제품을 완성하는 풀스택 시스템 빌더, 김건우(nyase)입니다.**
 
@@ -18,33 +15,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharhene777@gmail.com)
 
 </div>
-
----
-
-### 🧭 무엇을 하는 사람인가
-
-> ⚡ **FAST** (빠른 개발) · 💻 **EFFICIENT** (효율적인 코드) · 🤝 **TRUSTED** (신뢰와 파트너십)
->
-> **"개념에서 프로덕션까지 빠르게 구축하고 신뢰로 완성합니다."**
-> 
-> 안녕하세요! 저는 2인 개발팀 **CodeName9**에 소속된 개발자 **nyase (김건우)** 입니다.
-> 기획과 디자인에 머무르지 않고, 사용자가 실제로 쓰는 탄탄한 프로덕트를 구축하고 운영합니다.
-> 고성능 분산 시스템 설계, CMS 프레임워크 자체 제작, 실시간 네트워킹, 대규모 트래픽 최적화까지 제품의 전 계층(End-to-End)을 해결합니다.
-
----
-
-### 💼 주요 전문 분야 (Core Services)
-
-*   **Powerful Functional Web Solution (기능성 웹 솔루션)**
-    *   비즈니스의 성장을 뒷받침하는 맞춤형 기능성 웹 개발 및 고성능 백엔드 아키텍처 설계
-*   **Convert More, with Beautiful Landing Page (고전환 랜딩 페이지)**
-    *   매력적인 인터랙티브 디자인과 최적화된 컴포넌트 구조로 비즈니스 전환율을 높이는 최첨단 프론트엔드 제작
-*   **Connect. Share. Grow Together. (커뮤니티 & 블로그 플랫폼)**
-    *   사용자 중심의 실시간 커뮤니티, 블로그, 위키 시스템 및 확장 가능한 CMS 설계
-
----
-
-### 🛠️ 기술 스택
 
 **Languages**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
