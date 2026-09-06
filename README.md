@@ -1,37 +1,44 @@
-# 안녕하세요. 👋
+# nyase
 
-반갑습니다. nyase.kr
+> **junior but overstacked.**
 
----
+![Firmware and boot](https://img.shields.io/badge/layer-firmware%20%2B%20boot-111827?style=flat-square)
+![Systems and tooling](https://img.shields.io/badge/layer-systems%20%2B%20tooling-111827?style=flat-square)
+![Services and APIs](https://img.shields.io/badge/layer-services%20%2B%20APIs-111827?style=flat-square)
+![Frontend and UX](https://img.shields.io/badge/layer-frontend%20%2B%20UX-111827?style=flat-square)
 
-## Tech Stack
+I am a junior engineer who follows a problem through every layer it touches: from firmware and boot paths to services, APIs, and the interface in front of a person.
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+I build broadly on purpose. The goal is not to claim mastery of every tool; it is to understand the contracts between hardware, operating systems, services, and interfaces well enough to make the next decision better.
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+## The stack I keep climbing
 
-### Backend · Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+```text
+firmware / boot  →  systems / tooling  →  services / APIs  →  frontend / UX
+```
 
-### Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+- **Firmware and systems** — boot flows, hardware-facing experiments, graphics paths, and low-level utilities.
+- **Backends and infrastructure** — services, data models, authentication boundaries, and deployment paths.
+- **Frontend and product work** — interfaces that make complicated systems easier to use.
+- **Documentation** — intent, constraints, confirmed behavior, and the failures that still teach something.
 
----
+## A few directions
 
-# Just is Quote
+- [26x86](https://github.com/NiSeullent/26x86) — systems work for x86-based Macintosh hardware.
+- [26x86-MetallibSupportPkg](https://github.com/NiSeullent/26x86-MetallibSupportPkg) — Metal library patching utilities.
+- [neonux-core](https://github.com/NiSeullent/neonux-core) — a design-system core for tokens, themes, and React shells.
+- [ryllis2](https://github.com/NiSeullent/ryllis2) — a small Go-based social-service experiment.
+- [plopi](https://github.com/NiSeullent/plopi) — deployment and hosting-tooling experiments.
+
+## What you will find here
+
+- Small, complete experiments instead of résumé-shaped fragments.
+- READMEs that explain intent, setup, trade-offs, and known limits.
+- Work in progress labeled as work in progress.
+- A willingness to cross the boundary when the problem crosses it first.
+
+## Working rule
+
+> If it is code, it is worth understanding. If it touches another layer, trace the boundary.
+
+<sub>Building broad on purpose. Narrowing with every project.</sub>
