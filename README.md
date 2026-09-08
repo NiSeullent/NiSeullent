@@ -10,7 +10,7 @@
 
 A junior developer in Seoul, building under **nyase**. I explore graphics runtimes, backend services, and design systems. I like understanding how the layers fit together — then making something useful with them.
 
-[Website](https://zuzunza.com) &nbsp; / &nbsp; [Email](mailto:sharhene777@gmail.com) &nbsp; / &nbsp; [All repositories](https://github.com/NiSeullent?tab=repositories)
+[Portfolio](https://niseullent.github.io/) &nbsp; / &nbsp; [Email](mailto:sharhene777@gmail.com) &nbsp; / &nbsp; [All repositories](https://github.com/NiSeullent?tab=repositories)
 
 <br>
 
