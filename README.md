@@ -1,44 +1,68 @@
-# nyase
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img alt="nyase — From systems to interfaces. NiSeullent, software developer." src="./assets/profile-light.svg" width="100%">
+</picture>
 
-> **junior but overstacked.**
+<br>
 
-![Firmware and boot](https://img.shields.io/badge/layer-firmware%20%2B%20boot-111827?style=flat-square)
-![Systems and tooling](https://img.shields.io/badge/layer-systems%20%2B%20tooling-111827?style=flat-square)
-![Services and APIs](https://img.shields.io/badge/layer-services%20%2B%20APIs-111827?style=flat-square)
-![Frontend and UX](https://img.shields.io/badge/layer-frontend%20%2B%20UX-111827?style=flat-square)
+### Hi, I'm Shizuku.
 
-I am a junior engineer who follows a problem through every layer it touches: from firmware and boot paths to services, APIs, and the interface in front of a person.
+A junior developer in Seoul, building under **nyase**. I explore graphics runtimes, backend services, and design systems. I like understanding how the layers fit together — then making something useful with them.
 
-I build broadly on purpose. The goal is not to claim mastery of every tool; it is to understand the contracts between hardware, operating systems, services, and interfaces well enough to make the next decision better.
+[Website](https://zuzunza.com) &nbsp; / &nbsp; [Email](mailto:sharhene777@gmail.com) &nbsp; / &nbsp; [All repositories](https://github.com/NiSeullent?tab=repositories)
 
-## The stack I keep climbing
+<br>
 
-```text
-firmware / boot  →  systems / tooling  →  services / APIs  →  frontend / UX
-```
+## Selected work
 
-- **Firmware and systems** — boot flows, hardware-facing experiments, graphics paths, and low-level utilities.
-- **Backends and infrastructure** — services, data models, authentication boundaries, and deployment paths.
-- **Frontend and product work** — interfaces that make complicated systems easier to use.
-- **Documentation** — intent, constraints, confirmed behavior, and the failures that still teach something.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / GRAPHICS &amp; SYSTEMS</sub>
+      <h3><a href="https://github.com/NiSeullent/Mellow">Mellow ↗</a></h3>
+      <p>An experimental graphics runtime and GPU driver-porting toolkit, exploring OpenGL/OpenCL workloads and Metal.</p>
+      <p><code>C</code> <code>C++</code> <code>Graphics</code></p>
+      <sub>Experimental · Compatibility work in progress</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / INTERFACES &amp; DESIGN</sub>
+      <h3><a href="https://github.com/NiSeullent/neonux-core">NeonUX Core ↗</a></h3>
+      <p>A design-system core with semantic tokens, light and dark themes, React shells, and reusable UI primitives.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>CSS</code></p>
+      <sub>Design system · Tokens to components</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / SERVICES &amp; ARCHITECTURE</sub>
+      <h3><a href="https://github.com/NiSeullent/ryllis2">ryllis2 ↗</a></h3>
+      <p>A small social-service experiment in Go, built to study layered routing, middleware, and service boundaries.</p>
+      <p><code>Go</code> <code>React</code> <code>TypeScript</code></p>
+      <sub>Educational · A service architecture workbench</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / AUDIO &amp; CREATIVE TOOLS</sub>
+      <h3><a href="https://github.com/NiSeullent/utau-diff-voicebank">UTAU Diff Voicebank ↗</a></h3>
+      <p>A Python pipeline for turning personal recordings into Japanese UTAU voicebanks using Seed-VC voice conversion.</p>
+      <p><code>Python</code> <code>Seed-VC</code> <code>Audio</code></p>
+      <sub>Creative tooling · Recordings to voicebanks</sub>
+    </td>
+  </tr>
+</table>
 
-## A few directions
+Also exploring **[Plopi](https://github.com/NiSeullent/plopi)** — hosting comparison and deployment tooling.
 
-- [26x86](https://github.com/NiSeullent/26x86) — systems work for x86-based Macintosh hardware.
-- [26x86-MetallibSupportPkg](https://github.com/NiSeullent/26x86-MetallibSupportPkg) — Metal library patching utilities.
-- [neonux-core](https://github.com/NiSeullent/neonux-core) — a design-system core for tokens, themes, and React shells.
-- [ryllis2](https://github.com/NiSeullent/ryllis2) — a small Go-based social-service experiment.
-- [plopi](https://github.com/NiSeullent/plopi) — deployment and hosting-tooling experiments.
+<br>
 
-## What you will find here
+## How I work
 
-- Small, complete experiments instead of résumé-shaped fragments.
-- READMEs that explain intent, setup, trade-offs, and known limits.
-- Work in progress labeled as work in progress.
-- A willingness to cross the boundary when the problem crosses it first.
+- **Follow the boundary.** Trace a problem from the interface to the service, runtime, or hardware underneath.
+- **Make the work readable.** Document the intent, setup, trade-offs, and known limits.
+- **Keep learning in public.** Build small experiments, label what's unfinished, and leave a useful trail.
 
-## Working rule
+<br>
 
-> If it is code, it is worth understanding. If it touches another layer, trace the boundary.
+---
 
-<sub>Building broad on purpose. Narrowing with every project.</sub>
+<sub>**nyase** / Building broad. Learning in detail.</sub>

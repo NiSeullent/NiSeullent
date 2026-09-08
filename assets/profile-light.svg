@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">nyase — software developer</title>
+  <desc id="description">NiSeullent. From systems to interfaces. Four connected architectural layers represent firmware, systems, services, and interfaces.</desc>
+  <rect width="1200" height="360" rx="16" fill="#F6F7F5"/>
+  <path d="M64 304H1136" stroke="#D6DEDF"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="76" fill="#61717C" font-size="22" font-weight="500" letter-spacing="2.2">NISEULLENT / SOFTWARE DEVELOPER</text>
+    <text x="60" y="191" fill="#142332" font-size="108" font-weight="700" letter-spacing="-5">nyase<tspan fill="#087F75">.</tspan></text>
+    <text x="64" y="250" fill="#52636F" font-size="30" letter-spacing="-.4">From systems to interfaces.</text>
+  </g>
+  <g stroke-linejoin="round" stroke-width="1.5">
+    <path d="M868 206 996 156 1124 206 996 256Z" fill="#EFF2EF" stroke="#B5C3C5"/>
+    <path d="M868 163 996 113 1124 163 996 213Z" fill="#E9F0EC" stroke="#8CABAA"/>
+    <path d="M868 120 996 70 1124 120 996 170Z" fill="#E1EEE8" stroke="#599F95"/>
+    <path d="M868 77 996 27 1124 77 996 127Z" fill="#D7ECE4" stroke="#087F75"/>
+    <path d="M868 77V206M1124 77V206M996 127V256" stroke="#087F75" stroke-opacity=".3" stroke-dasharray="3 7"/>
+    <path d="M929 77 996 51 1063 77 996 103Z" stroke="#087F75" stroke-opacity=".4"/>
+  </g>
+  <circle cx="996" cy="77" r="4" fill="#087F75"/>
+</svg>
